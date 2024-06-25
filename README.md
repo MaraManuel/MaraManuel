@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Mara Manuel and I Love Programming <3
 
 <!--
 **MaraManuel/MaraManuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
